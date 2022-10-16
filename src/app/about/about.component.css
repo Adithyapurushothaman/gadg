@@ -1,0 +1,49 @@
+body {
+    background-image: url("../../assets/images/tech9.jpg");
+    width: 100%;
+    height: 750px;
+    padding: 0px;
+    margin: 0px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+a {
+    display: block;
+    color:blue;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color:aliceblue;
+}
+.cap1{
+    margin-top: 40px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    color: rgb(179, 210, 20);
+}
+.cap{
+    margin-top: 30px;
+    font-size: 60px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:orange;
+}
+
+h1{
+    display: inline;
+}
+.container4{
+    color:navy;
+}
